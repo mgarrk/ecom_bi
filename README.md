@@ -1,1 +1,6 @@
-"# mongo_bi" 
+# Инструменты:
+
+* MongoDB
+* Docker
+* Python
+* Power BI
